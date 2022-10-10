@@ -1,6 +1,6 @@
 [![MaterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://jaafarhawle@gmail.com)
 <h1 align="center">Hi 👋, I'm Jaafar Hawli</h1>
-<h3 align="center">Lebanese junior software engineer</h3>
+<h3 align="center">Lebanese Junior Software Engineer</h3>
 <img align="right" alt="coding" src="https://ramy9999.github.io/Ramy-s-CSS-Full-Website/images/giphy%20programming%201.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaafarhawli&label=Profile%20views&color=0e75b6&style=flat" alt="jaafarhawli" /> </p>
 
