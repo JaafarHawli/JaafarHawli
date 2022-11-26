@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 💬 Ask me about 
+## 💬 Ask me about
 * Frontend web development
 * Backend web development
 
