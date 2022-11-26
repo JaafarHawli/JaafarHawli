@@ -4,13 +4,15 @@
 <img align="right" alt="coding" src="https://ramy9999.github.io/Ramy-s-CSS-Full-Website/images/giphy%20programming%201.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaafarhawli&label=Profile%20views&color=0e75b6&style=flat" alt="jaafarhawli" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+## 🌱 I’m currently learning 
+* **Full-Stack Web Development**
 
 ## 💬 Ask me about
 * Frontend web development
 * Backend web development
 
-- 📫 How to reach me **jaafarhawle@gmail.com**
+## 📫 How to reach me 
+* **jaafarhawle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
